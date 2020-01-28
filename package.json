@@ -1,0 +1,32 @@
+{
+  "name": "lambdabaa-dav-usage-test",
+  "version": "1.0.0",
+  "description": "Test if lambdabaa/dav can be used to integrate a NodeJS app with iCloud Calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stakct/lambdabaa-dav-usage-test.git"
+  },
+  "keywords": [
+    "lambdabaa",
+    "dav",
+    "webdav",
+    "caldav",
+    "icloud",
+    "calendar",
+    "apple"
+  ],
+  "author": "Salvatore Tarda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stakct/lambdabaa-dav-usage-test/issues"
+  },
+  "homepage": "https://github.com/Stakct/lambdabaa-dav-usage-test#readme",
+  "dependencies": {
+    "dav": "^1.8.0",
+    "ics": "^2.18.0"
+  }
+}
